@@ -1,5 +1,7 @@
 # MERN Stack Ecommerce (Travel App)
 
+## Live Project: https://merntravelecommerce.herokuapp.com/
+
 To use this application, 
 
 1. make dev.js file inside config folder 
